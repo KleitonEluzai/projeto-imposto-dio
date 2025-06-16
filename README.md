@@ -23,13 +23,14 @@ Criar um modelo funcional para análise e preenchimento de dados de pessoa físi
 ## 🖼️ Interface do Projeto
 
 #### 📌 Tela de Dados do Titular
-![Tela Titular](images/titular.png)
+![Tela Titular](images/titular.PNG)
 
 #### 📌 Tela de Informes de Rendimento  
-![Tela Informes](images/informes.png)
+![Tela Informes](images/informes.PNG)
 
 #### 📌 Tela de Notas Explicativas  
-![Tela Notas](images/notas.png)
+![Tela Notas](images/notas.PNG)
+
 
 ## 👨‍💻 Autor
 
